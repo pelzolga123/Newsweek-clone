@@ -99,3 +99,88 @@ main, footer{
     height:15%;
     width:15%;
 }
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+ .navbar-light {
+    display: none!important;
+ }
+ .navbar-dark span{
+    display: none!important;
+ }
+ .logo-img{
+    height:60px;
+}
+ .navbar-dark{
+    width: 100%;
+     }
+     nav{
+        padding:0!important;
+     }
+     main{
+        width:100%;
+    }
+    .latest-news-img{
+    width:20%;
+}
+footer{
+    width:100%;
+}
+.featured{
+    flex: 0 0 37%;
+    max-width:37%;
+}
+.top{
+    flex: 0 0 60%;
+    max-width:60%; 
+}
+.editor article{
+    flex: 0 0 50%;
+    max-width:50%;  
+}
+}
+
+
+@media only screen and (max-width: 767px) {
+    .navbar-light {
+        display: none!important;
+    }
+    .navbar-dark span{
+        display: none!important;
+     }
+     .navbar-dark{
+         width: 100%;
+     }
+     nav{
+        padding:0!important;
+     }
+     .logo-img{
+        height:45px;
+    }
+    .buttons{
+        align-self:center!important;
+    }
+    main{
+        width:100%;
+    }
+    .latest-news-img{
+    width:20%;
+}
+.subscribe-div{
+    display:grid;
+}
+footer{
+    width:100%;
+}
+.footer-list{
+    width:100%!important;
+}
+.footer-list-bottom{
+    justify-content:start;
+    width:100%!important;
+}
+}
+@media only screen and (min-width: 993px) {
+.bars{
+display:none;
+}
+}
