@@ -11,4 +11,4 @@ Used:
 
 # The Website
 
-Follow this link to access to the website: https://rawcdn.githack.com/pelzolga123/Newsweek-clone/987419c52cf223381392555d149717d7b7caf2e9/index.html
+Follow this link to access to the website: https://rawcdn.githack.com/pelzolga123/Newsweek-clone/d80a4a970a05016e75f6345a2b184083583ad91d/index.html
