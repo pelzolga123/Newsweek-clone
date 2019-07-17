@@ -139,7 +139,6 @@ footer{
 }
 }
 
-
 @media only screen and (max-width: 767px) {
     .navbar-light {
         display: none!important;
@@ -147,15 +146,20 @@ footer{
     .navbar-dark span{
         display: none!important;
      }
+     .featured {
+        flex: 90%;
+        max-width: 90%;
+        }
+    .logo-img {
+            height: 60px;
+        }  
      .navbar-dark{
          width: 100%;
      }
      nav{
         padding:0!important;
      }
-     .logo-img{
-        height:45px;
-    }
+   
     .buttons{
         align-self:center!important;
     }
