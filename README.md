@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/KX9p0zX/Screenshot-from-2020-03-16-18-07-07.png" alt="Screenshot-from-2020-03-16-18-07-07" border="0">
 
 ## About The Project
-This is a clone of Newsweek page. Webpage contains embedded images and thumbnails. The styling was done using Bootstrap 4. s.
+This is a clone of the Newsweek page. The webpage contains embedded images and thumbnails. The styling was done using Bootstrap 4. s.
 
 ## Live version
 [Newsweek clone](https://rawcdn.githack.com/pelzolga123/Newsweek-clone/d80a4a970a05016e75f6345a2b184083583ad91d/index.html)
@@ -12,6 +12,14 @@ This is a clone of Newsweek page. Webpage contains embedded images and thumbnail
 * HTML5
 * CSS
 * Bootstrap 4
+
+### Development
+
+* Clone project
+```
+git clone https://github.com/pelzolga123/Newsweek-clone.git
+```
+* Open `index.html` file with a browser.
 
 ## Author
 
